@@ -25,7 +25,7 @@ export default {
 .list {
   display: block;
   padding: 10px;
-  width: 67%;
+  width: 40%;
 }
 .item {
   display: flex;

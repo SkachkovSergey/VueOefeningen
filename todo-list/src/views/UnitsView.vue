@@ -21,7 +21,7 @@ export default {
       units: [
         {id: 1, name: 'Defender', price: 12, image: 'defender.jpg'},
         {id: 2, name: 'Spearman', price: 23, image: 'pieker.jpg'},
-        {id: 3, name: 'Roman', price: 54, image: 'roman.jpg'},
+        {id: 3, name: 'Roman', price: 34, image: 'roman.jpg'},
       ]
     }
   }
