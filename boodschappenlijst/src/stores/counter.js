@@ -42,6 +42,9 @@ export const useProductStore = defineStore('product',  {
     },
     saveItem(item) {
       item.isEditing = false
+    },
+    callEditing(item) {
+      item.isEditing = true
     }
   }
 });

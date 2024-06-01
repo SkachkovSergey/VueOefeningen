@@ -14,7 +14,7 @@ export default {
     <div class="wrapper">
       <Heading msg="Advanced Vue oefeningen" />
       <nav>
-        <RouterLink to="/">Andere oefening</RouterLink>
+        <RouterLink to="/">Studentlist</RouterLink>
         <RouterLink to="/shoppinglist">Boodschappen lijst</RouterLink>
       </nav>
     </div>
